@@ -1,2 +1,5 @@
+# ignore these file
 *.out
+# ignore these directories
 moons/
+!a.out
